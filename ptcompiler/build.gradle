@@ -1,0 +1,8 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.auto.service:auto-service:1.0-rc3'//生成 META-INF/services/javax.annotation.processing.Processor 文件
+    implementation 'com.squareup:javapoet:1.8.0' //用于产生 .java 源文件的辅助库
+    implementation project(':ptannotation')
+}

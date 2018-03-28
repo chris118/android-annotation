@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PTApp.iml" filepath="$PROJECT_DIR$/PTApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptannotation/ptannotation.iml" filepath="$PROJECT_DIR$/ptannotation/ptannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptcompiler/ptcompiler.iml" filepath="$PROJECT_DIR$/ptcompiler/ptcompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptrouter/ptrouter.iml" filepath="$PROJECT_DIR$/ptrouter/ptrouter.iml" />
+    </modules>
+  </component>
+</project>
